@@ -1,0 +1,14 @@
+C:\Edx\OO Programming C#\Module1\SchoolProgram\bin\Debug\SchoolProgram.exe.config
+C:\Edx\OO Programming C#\Module1\SchoolProgram\bin\Debug\SchoolProgram.exe
+C:\Edx\OO Programming C#\Module1\SchoolProgram\bin\Debug\SchoolProgram.pdb
+C:\Edx\OO Programming C#\Module1\SchoolProgram\obj\Debug\SchoolProgram.csprojResolveAssemblyReference.cache
+C:\Edx\OO Programming C#\Module1\SchoolProgram\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache
+C:\Edx\OO Programming C#\Module1\SchoolProgram\obj\Debug\SchoolProgram.exe
+C:\Edx\OO Programming C#\Module1\SchoolProgram\obj\Debug\SchoolProgram.pdb
+C:\Edx\OO Programming C#\Module2\SchoolProgram\bin\Debug\SchoolProgram.exe.config
+C:\Edx\OO Programming C#\Module2\SchoolProgram\bin\Debug\SchoolProgram.exe
+C:\Edx\OO Programming C#\Module2\SchoolProgram\bin\Debug\SchoolProgram.pdb
+C:\Edx\OO Programming C#\Module2\SchoolProgram\obj\Debug\SchoolProgram.csprojResolveAssemblyReference.cache
+C:\Edx\OO Programming C#\Module2\SchoolProgram\obj\Debug\SchoolProgram.csproj.CoreCompileInputs.cache
+C:\Edx\OO Programming C#\Module2\SchoolProgram\obj\Debug\SchoolProgram.exe
+C:\Edx\OO Programming C#\Module2\SchoolProgram\obj\Debug\SchoolProgram.pdb
