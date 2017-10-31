@@ -8,8 +8,10 @@ A UProgram
 A Degree
 A Course
 
-Class Diagram UProgram --->Degree--->Course |--->Teacher
-                                            |--->Student
+Class Diagram 
+
+1. UProgram --->Degree--->Course |--->Teacher
+2. UProgram --->Degree--->Course |--->Student
 
 Output: Track the number of students currently enrolled in a school.
 
